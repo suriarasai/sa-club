@@ -29,16 +29,7 @@ public class ClubApplication {
 
 }
 
-class Facility {
 
-	public String name;
-	public String description;
-
-	public Facility(String name, String description) {
-		this.name = name;
-		this.description = description;
-	}
-}
 
 class Person {
 
